@@ -1,0 +1,10 @@
+pymupdf
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-groq
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+numpy
